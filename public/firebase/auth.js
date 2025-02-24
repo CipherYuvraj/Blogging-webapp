@@ -1,4 +1,5 @@
 // Import Firebase Auth functions
+
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut } from "https://www.gstatic.com/firebasejs/11.3.0/firebase-auth.js";
 import { auth } from "./firebaseAuth.js"; // Import the initialized Firebase app
 
